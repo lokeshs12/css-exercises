@@ -1,0 +1,30 @@
+.pink {
+    font-family: 'Times New Roman', Times, serif ;
+    color: rgb(0, 0, 0) ;
+    background-color: rgba(232, 107, 197, 0.4);
+}
+
+#blue {
+    color: rgb(0, 0, 0);
+    font-size: 34px;
+
+}
+
+#green {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 24px;
+    background-color: rgba(103, 201, 103, 0.4);
+}
+
+
+
+.pink.big {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+
+
+
+
+
